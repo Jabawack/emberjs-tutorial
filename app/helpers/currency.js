@@ -1,4 +1,3 @@
-import { helper } from '@ember/component/helper';
 import Helper from '@ember/component/helper';
 
 export default class currency extends Helper {
